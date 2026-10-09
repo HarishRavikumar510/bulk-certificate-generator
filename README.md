@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Bulk Certificate Generator" width="100%">
+</p>
 # 🏆 Bulk Certificate Generator
 
 ### ⚡ Generate More. Wait Less. Celebrate Every Achievement.
